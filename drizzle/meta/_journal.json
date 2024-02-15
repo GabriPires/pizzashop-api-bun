@@ -15,6 +15,20 @@
       "when": 1707996567625,
       "tag": "0001_daffy_lord_tyger",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707996689990,
+      "tag": "0002_sweet_pandemic",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1707996758380,
+      "tag": "0003_misty_centennial",
+      "breakpoints": true
     }
   ]
 }
